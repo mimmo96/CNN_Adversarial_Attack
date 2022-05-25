@@ -1,0 +1,2 @@
+# CNN_Adversarial_Attack
+Implementation of personalized convolutional network and show performance results on CIFAR-10.   After network is trained, try an adversarial attack to it with the simple Fast Gradient Sign method, generating one (or more) adversarial examples starting from one (or more) CIFAR-10 test images. At the end display the original image, the adversarial noise and the final adversarial example.  
